@@ -24,7 +24,7 @@ The goal of this project is to simulate a **real-world OLA Data Analyst use case
 ## 📚 Dataset Overview
 - **City:** Bangalore  
 - **Time Period:** July 2024 (1 month)  
-- **Records:** ~1,00,000 bookings *(synthetic but business-realistic)*  
+- **Records:** ~1,03,025 bookings *(synthetic but business-realistic)*  
 
 ### Key Columns
 - Booking ID, Date, Time  
